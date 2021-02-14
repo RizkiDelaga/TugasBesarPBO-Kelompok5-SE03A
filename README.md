@@ -24,6 +24,12 @@ Selamat datang di github kami, perkenalkan kami dari kelompok 5 yang beranggotak
 
 ![Class Diagram](https://github.com/RizkiDelaga/TugasBesarPBO-Kelompok5-SE03A/blob/main/Class%20Diagram/Class%20Diagram.png?raw=true)
 
+Konsep OOP yang digunakan di program kami yaitu :
+1. Object (Yang difungsikan sebagai class pada program ini)
+2. Object Inheritance menggunakan Object.create()
+3. Constructor dalam class
+4. Array of Object
+
 Program ini terbagi jadi 2 tipe user, yaitu :
 
 ![Menu Pilih Tipe User](https://raw.githubusercontent.com/RizkiDelaga/TugasBesarPBO-Kelompok5-SE03A/main/img/Menu%20Pilih%20Tipe%20User.png)
@@ -111,4 +117,3 @@ Program ini terbagi jadi 2 tipe user, yaitu :
 4.	Lalu masuk ke repository github milik kami https://github.com/
 5.	Berikutnya buka file ProgramBookingFutsal.js dan copy code tersebut pada index.js di repl yang sudah anda buat sebelumnya
 6.	Selanjutnya, anda tinggal Run code-nya
-
