@@ -26,8 +26,6 @@ Program ini terbagi jadi 2 tipe user, yaitu :
         * Lupa Password
             Lupa password apabila admin lupa passwordnya dengan memasukan tanggal lahir.
             ![Lupa Password](https://raw.githubusercontent.com/RizkiDelaga/TugasBesarPBO-Kelompok5-SE03A/main/img/Admin/Menu%20Login%20Admin/Lupa%20Password/Lupa%20Password.png)
-            Apabila admin belum mengatur tanggal lahir akan muncul seperti berikut.
-            ![Admin Belum Mengatur Tanggal Lahir](https://github.com/RizkiDelaga/TugasBesarPBO-Kelompok5-SE03A/blob/main/img/Admin/Menu%20Login%20Admin/Lupa%20Password/Lupa%20Password%20-%20Belum%20Mengatur%20Tanggal%20Lahir.png?raw=true)
     * Menu Konfigurasi Futsal
         * Ubah Profil Futsal
             Menu untuk mengatur konfigurasi futsal seperti profil futsal dan lapangan futsal yang dimiliki pemilik futsal.
