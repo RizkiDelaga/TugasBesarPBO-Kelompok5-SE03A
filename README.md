@@ -25,17 +25,25 @@ Program ini terbagi jadi 2 tipe user, yaitu :
             ![Login](https://raw.githubusercontent.com/RizkiDelaga/TugasBesarPBO-Kelompok5-SE03A/main/img/Admin/Menu%20Login%20Admin/Login/Login%20Admin.png)
         * Lupa Password
             Lupa password apabila admin lupa passwordnya dengan memasukan tanggal lahir.
+            ![Lupa Password](https://raw.githubusercontent.com/RizkiDelaga/TugasBesarPBO-Kelompok5-SE03A/main/img/Admin/Menu%20Login%20Admin/Lupa%20Password/Lupa%20Password.png)
+            Apabila admin belum mengatur tanggal lahir akan muncul seperti berikut.
+            ![Admin Belum Mengatur Tanggal Lahir](https://github.com/RizkiDelaga/TugasBesarPBO-Kelompok5-SE03A/blob/main/img/Admin/Menu%20Login%20Admin/Lupa%20Password/Lupa%20Password%20-%20Belum%20Mengatur%20Tanggal%20Lahir.png?raw=true)
     * Menu Konfigurasi Futsal
         * Ubah Profil Futsal
             Menu untuk mengatur konfigurasi futsal seperti profil futsal dan lapangan futsal yang dimiliki pemilik futsal.
+            ![]()
         * Ubah Harga
-            Setelah mengatur konfigurasi futsal, admin baru bisa mengisikan harga disetiap lapangan yang dimilikinya. 
+            Setelah mengatur konfigurasi futsal, admin baru bisa mengisikan harga disetiap lapangan yang dimilikinya.
+            ![]()
         * Lihat Konfigurasi Futsal
             Menu untuk melihat konfigurasi futsal yang sudah tersimpan.
+            ![]()
         * Konfigurasi Password Login
             Menu untuk mengatur konfigurasi password. Seperti udah password dan ubah tanggal lahir sebagai opsi apabila si pengguna lupa password dikemudian hari.
+            ![]()
         * Lihat List Booking
             Menu untuk melihat daftar list pembookingan futsal berdasarkan lapangan dan bulan.
+            ![]()
 2. Pengguna
     Untuk bisa menggunakan menu pembookingan, admin terlebih dahulu harus mengkonfigurasi bookingan futsalnya. jika tidak akan menampilkan pesan berikut ketika ingin masuk ke menu pengguna.
     * Booking
