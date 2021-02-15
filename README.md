@@ -114,7 +114,7 @@ Program ini terbagi jadi 2 tipe user, yaitu :
 1.	Masuk ke dalam Website repl.it
 2.	Silahkan melakukan sign in terlebih dahulu jika pengguna belum memiliki akun
 3.	Kemudian buatlah sebuah project repl baru dengan node.js
-4.	Lalu masuk ke repository github milik kami https://github.com/
+4.	Lalu masuk ke repository github milik kami https://github.com/RizkiDelaga/TugasBesarPBO-Kelompok5-SE03A
 5.	Berikutnya buka file ProgramBookingFutsal.js dan copy code tersebut pada index.js di repl yang sudah anda buat sebelumnya
 6.	Selanjutnya, anda tinggal Run code-nya
 
