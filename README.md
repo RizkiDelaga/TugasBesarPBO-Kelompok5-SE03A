@@ -22,6 +22,7 @@ Selamat datang di github kami, perkenalkan kami dari kelompok 5 yang beranggotak
 
 ### Class Diagram
 
+
 ![Class Diagram](https://github.com/RizkiDelaga/TugasBesarPBO-Kelompok5-SE03A/blob/main/Class%20Diagram/Class%20Diagram.png?raw=true)
 
 Konsep OOP yang digunakan di program kami yaitu :
