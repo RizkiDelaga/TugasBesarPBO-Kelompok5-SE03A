@@ -119,5 +119,5 @@ Program ini terbagi jadi 2 tipe user, yaitu :
 6.	Selanjutnya, anda tinggal Run code-nya
 
 ## LINK VIDEO YOUTUBE
-1. 19104074 [Video Tugas Besar PBO - Program Booking Futsal Menggunakan Bahasa Pemrograman Javascript](https://www.youtube.com/watch?v=Kh5T3aojuPk)
-2. 19104054 [Video Tugas Besar PBO - Program Booking Futsal Menggunakan Bahasa Pemrograman Javascript](https://www.youtube.com/watch?v=DWM5U90bF8s)
+[Video Tugas Besar PBO - Program Booking Futsal Menggunakan Bahasa Pemrograman Javascript](https://www.youtube.com/watch?v=Kh5T3aojuPk)
+
