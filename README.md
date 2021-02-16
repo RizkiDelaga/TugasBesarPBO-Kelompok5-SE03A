@@ -22,8 +22,7 @@ Selamat datang di github kami, perkenalkan kami dari kelompok 5 yang beranggotak
 
 ### Class Diagram
 
-
-![Class Diagram](https://github.com/RizkiDelaga/TugasBesarPBO-Kelompok5-SE03A/blob/main/Class%20Diagram/Class%20Diagram.png?raw=true)
+![Class Diagram](https://github.com/RizkiDelaga/TugasBesarPBO-Kelompok5-SE03A/blob/main/Class%20Diagram%20-%20Program%20Booking%20Futsal/Class%20Diagram.png?raw=true)
 
 Konsep OOP yang digunakan di program kami yaitu :
 1. Object (Yang difungsikan sebagai class pada program ini)
